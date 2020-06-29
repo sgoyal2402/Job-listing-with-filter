@@ -55,6 +55,8 @@ const Logo = styled.img`
   @media screen and (max-width: 2000px) and (min-width: 576px) {
     align-self: center;
     margin-left: 15px;
+    width: 80px;
+    height: 80px;
   }
 `;
 
